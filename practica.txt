@@ -1,0 +1,19 @@
+git status: Este comando se usa para obtener el estado actual del repositorio
+
+git clone:  extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
+
+git pull: extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
+
+git checkout: Este comando es para cambiar de rama 
+
+git log:te permite  explorar el historial del repositorio
+
+git branch:  te permite crear, enumerar y eliminar ramas, así como cambiar su nombre.
+
+git add: añade un cambio del directorio de trabajo en el entorno de ensayo
+
+git commit: captura una instantánea de los cambios preparados en ese momento del proyecto
+
+git push:cargar contenido del repositorio local a un repositorio remoto
+
+git merge:se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa
